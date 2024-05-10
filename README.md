@@ -1,0 +1,1 @@
+https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=RELIANCE.BSE&outputsize=full&apikey=LDWRX708P68IS36Y
